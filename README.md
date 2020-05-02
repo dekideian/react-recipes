@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Main description
+Single page application that displays chicken recipes, by changing the main ingredient in the search field, 
+we can see other recipes
+
 ## Available Scripts
 
 In the project directory, you can run:
