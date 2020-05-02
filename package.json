@@ -19,6 +19,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+  "proxy": "https://api.edamam.com",
   "browserslist": {
     "production": [
       ">0.2%",
